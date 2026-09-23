@@ -1,0 +1,17 @@
+﻿REMOTASKS TEST PROJECT INSTRUCTIONS
+
+Project: TEST_LIDAR
+
+Annotation rules:
+1. Use the assigned object class only.
+2. A 3D cuboid must cover the visible object.
+3. Do not include unrelated objects in the cuboid.
+4. Check occluded areas carefully.
+5. Before submission, verify class, geometry, and consistency.
+
+Quality:
+- Avoid oversized boxes.
+- Avoid boxes that cut through the visible object.
+- Verify the annotation against the project examples.
+
+This is a TEST instruction file for Mark-LIII ingestion validation.
